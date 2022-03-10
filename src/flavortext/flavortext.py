@@ -331,7 +331,7 @@ colors = [
 ]
 
 # generate and print flavoricious text
-def flavortext(yourConstrVerbs = None, yourDestrVerbs = None, yourNouns = None, length = 30, delay = 0.05):
+def flavoricious(yourConstrVerbs = None, yourDestrVerbs = None, yourNouns = None, length = 30, delay = 0.05):
     # append the user provided funny words, if available
     if yourConstrVerbs:
         constructiveVerbs.extend(yourConstrVerbs)
