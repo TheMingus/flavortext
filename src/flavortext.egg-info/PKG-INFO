@@ -1,12 +1,16 @@
 Metadata-Version: 2.1
 Name: flavortext
-Version: 1.0.1
+Version: 1.0.2
 Summary: Add a touch of pizzaz to your python projects.
 Home-page: https://github.com/TheMingus/flavortext.py
 Author: Mingus
-License: MIT
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/TheMingus/flavortext.py/issues
 Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
@@ -17,7 +21,7 @@ sue me.
 
 ## How to use:
 import the module:
-`from flavortext import flavoricious`
+`from flavortext import flavortext`
 
 
 

@@ -5,7 +5,7 @@ sue me.
 
 ## How to use:
 import the module:
-`from flavortext import flavoricious`
+`from flavortext import flavortext`
 
 
 
