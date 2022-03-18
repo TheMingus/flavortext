@@ -3,11 +3,9 @@ I shamelessly yoinked this from [ZachFreedman's Singularitron](https://github.co
 
 sue me.
 
-I tried to put this on PyPI but it was super weird about it, so nevermind.
-
 ## How to use:
 import the module:
-`from flavortext import flavortext`
+`from flavortext import flavoricious`
 
 
 
