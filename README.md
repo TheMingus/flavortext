@@ -4,6 +4,9 @@ I shamelessly yoinked this from [ZachFreedman's Singularitron](https://github.co
 sue me.
 
 ## How to use:
+install from pip
+`pip install flavortext`
+
 import the module:
 `from flavortext import flavoricious`
 
